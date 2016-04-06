@@ -1,0 +1,5 @@
+# DeleteLayout
+带滑动删除的RelativityLayout
+
+
+简单的集成ViewDragHelper来处理View的滑动事件
